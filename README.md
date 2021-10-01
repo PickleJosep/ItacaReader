@@ -5,7 +5,7 @@ ItacaReader és un script senzill que es pot utilitzar per a passar els llistats
 a un arxiu csv que es pot obrir amb excel amb el format típic del quadern de professor:
 ![image](https://user-images.githubusercontent.com/91680464/135536973-d6da02c3-21f9-48a5-83d4-73c1b554cd2c.png)
 
-És un script de Python, per la qual cosa cal tindre instal·lat python per a executar-lo i les llibreries camelot, pandas i datetime (es poden instal·lar amb pip, per exemple).
+És un script de Python, per la qual cosa cal tindre instal·lat Python per a executar-lo i les llibreries camelot, pandas i datetime (es poden instal·lar amb pip, per exemple).
 
 L'script cerca a totes les carpetes del directori on es troba el llistat de l'alumnat i el llistat d'incidències, que han d'estar junts dins de la mateixa carpeta:
 
