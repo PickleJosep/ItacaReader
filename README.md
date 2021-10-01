@@ -25,3 +25,5 @@ Una volta fet açò, quan l'script s'execute, es generarà un csv dins de la car
 ![image](https://user-images.githubusercontent.com/91680464/135538482-3559e91d-33c7-4b58-a02a-07dd8c45084b.png)
 
 D'este repositori solament cal descarregar l'arxiu ItacaReader.py
+
+Fet per: Josep Gallego Grau
