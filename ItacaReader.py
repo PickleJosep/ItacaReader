@@ -27,8 +27,7 @@ def process_folder(grupo):
         return
     
     if len(incidencias_pdf) < 1:
-        print('  - ERROR: Document amb les incidències de l\'alumnat no trobat')
-        return
+        print('  - ADVERTÈNCIA: Document amb les incidències de l\'alumnat no trobat')
     
     #Se obtiene el listado con todo el alumnado de la clase (nombre y curso)
     listado = {}
@@ -114,4 +113,4 @@ for grupo in grupos:
     print('Processant ' + os.path.basename(grupo) + ':')
     process_folder(grupo)
 
-print('Processament finalitzat!\n\n')
+print('Processament finalitzat!\n')
