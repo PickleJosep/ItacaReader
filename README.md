@@ -14,7 +14,7 @@ L'script cerca a totes les carpetes del directori on es troba el llistat de l'al
 
 El nom de la carpeta determina el nom del csv creat (ja que se li posa el mateix nom), mentre que el nom dels documents amb els llistats de l'alumnat i d'incidències pot ser qualsevol.
 
-Per a obtindre el llistat de l'alumnat, cal generar en Itaca l'informe que es diu "Llisat de qualificacions" de l'assignatura impartida:
+Per a obtindre el llistat de l'alumnat, cal generar en Itaca l'informe que es diu "Llisat de qualificacions" de l'assignatura impartida (solament una assignatura):
 ![image](https://user-images.githubusercontent.com/91680464/135538825-5d3e6502-2a8a-44b0-8fa3-badeb7bded00.png)
 
 
